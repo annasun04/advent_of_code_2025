@@ -61,7 +61,7 @@ for line in lines:
 print("part 2 count:", count)
 pos = 50
 count = 0
-
+# could not figure out edge cases, 
 for line in lines:
     d = line[0]
     n = int(line[1:])

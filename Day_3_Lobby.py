@@ -1,4 +1,4 @@
-# 
+# Part 0: parse input
 filename = 'ex.txt'
 lines = []
 with open(filename, 'r') as f:
